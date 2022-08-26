@@ -1,0 +1,5 @@
+let nome = "Paulo"
+let email = "paulomorandini@gmail.com"
+let profissao = "Gerente"
+let idade = "38"
+let lugarConhecer = "Suiça"
