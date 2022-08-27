@@ -1,11 +1,12 @@
 /* SESSÃO 1: DOMINANDO LOOPS E CONTADORES
 
-Exercício 1: Exibindo números de 1 a 10
+Exercício 1: Exibindo números de 1 a N
 */
 
-let contador = 1
+let i = 1
+let n = 1000 // input do usuário
 
-while (contador <= 10) {
-    console.log(contador)
-    contador = contador + 1
+while (i <= n) {
+    console.log(i)
+    i++ // abreviação de i = i + 1
 }
