@@ -3,7 +3,7 @@ quando carregamos a página n´s verificamos a idade do usuário logado e se ess
 de 18 anos nós mostraremos a mensagem: Conteúdo proibido para menores.*/
 
 let nome = "Paulinho"
-let idade = 10
+let idade = 20
 
 if  (idade >= 18)   {
     console.log(nome + " pode entrar na página.")
