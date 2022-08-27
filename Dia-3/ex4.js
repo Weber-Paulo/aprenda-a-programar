@@ -4,7 +4,7 @@ Exercício 1: Exibindo números de 1 a N
 */
 
 let i = 1
-let n = 1000 // input do usuário
+let n = 10 // input do usuário
 
 while (i <= n) {
     console.log(i)
