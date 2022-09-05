@@ -4,7 +4,7 @@ let primo = `O número ${num} é primo`
 
 if (num == 1) {
     primo = `O número ${num} não é primo`
-}   else if (num == 2) {
+} else if (num == 2) {
     primo = `O número ${num} é primo`
 } else {
     let numero = true
@@ -15,4 +15,4 @@ if (num == 1) {
         }
     }
 }
-console.log (primo)
+console.log(primo)

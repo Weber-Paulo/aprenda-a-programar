@@ -5,7 +5,7 @@ de 18 anos nós mostraremos a mensagem: Conteúdo proibido para menores.*/
 let nome = "Paulinho"
 let idade = 20
 
-if  (idade >= 18)   {
+if (idade >= 18) {
     console.log(nome + " pode entrar na página.")
 } else {
     console.log(nome + " não insista meu amigo. Acesso proibido")

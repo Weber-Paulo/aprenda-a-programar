@@ -2,6 +2,6 @@
 
 let valor = "12" // string
 
-let tipoDoValor = typeof(valor)
+let tipoDoValor = typeof (valor)
 
 console.log(`${valor} é do tipo ${tipoDoValor}`)
